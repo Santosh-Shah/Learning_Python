@@ -1,0 +1,1 @@
+# Given a list of numbers, find the sum and average'

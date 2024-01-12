@@ -1,0 +1,1 @@
+# Q1: Write a program that checks if a given number is positive, negative, or zero.

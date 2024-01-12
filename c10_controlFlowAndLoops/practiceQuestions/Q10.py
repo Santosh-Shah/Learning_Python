@@ -1,0 +1,1 @@
+# Q10: Write a program that calculates the factorial of a given number.

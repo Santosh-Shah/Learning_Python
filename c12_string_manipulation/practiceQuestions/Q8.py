@@ -1,0 +1,1 @@
+# Q8: Write a function to check if a number is even or odd and return "Even" or "Odd" accordingly.

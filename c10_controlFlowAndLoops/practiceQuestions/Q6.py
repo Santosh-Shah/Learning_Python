@@ -1,0 +1,1 @@
+# Q6: Write a Python program to check if a given number is a prime number.

@@ -1,0 +1,1 @@
+# Q8: Given a list of names, print all names starting with the letter 'A'.

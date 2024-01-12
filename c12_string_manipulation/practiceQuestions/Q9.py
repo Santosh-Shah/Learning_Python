@@ -1,0 +1,1 @@
+# Q9: Calculate the area of a triangle given its base and height using a function.

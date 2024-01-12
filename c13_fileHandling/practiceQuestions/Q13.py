@@ -1,0 +1,1 @@
+# Q13: Create a function that takes a number as input and prints its multiplication table.

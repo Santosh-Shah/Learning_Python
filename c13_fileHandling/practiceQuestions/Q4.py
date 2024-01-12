@@ -1,0 +1,1 @@
+# Q4: Given a list of numbers, create a function to find the sum of all positive numbers.

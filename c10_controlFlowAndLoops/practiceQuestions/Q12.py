@@ -1,0 +1,1 @@
+# Q12: Given a list of words, count the number of words with more than five characters.

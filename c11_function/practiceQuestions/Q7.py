@@ -1,0 +1,1 @@
+# Q7: Create a function to find the square of each element in a given list.

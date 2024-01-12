@@ -1,0 +1,1 @@
+# Q1: Write a function to calculate the area of a circle given its radius.

@@ -1,0 +1,1 @@
+# Q6: Implement a function that returns the factorial of a given number using recursion.

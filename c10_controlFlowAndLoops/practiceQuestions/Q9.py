@@ -1,0 +1,1 @@
+# Q9: Implement a program that prints the multiplication table of a given number.

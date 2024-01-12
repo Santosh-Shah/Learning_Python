@@ -1,0 +1,1 @@
+# Q13: Calculate the sum of digits of a given number.

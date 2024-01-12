@@ -1,0 +1,1 @@
+# Q11: Create a loop that prints all prime numbers between 1 and 50.

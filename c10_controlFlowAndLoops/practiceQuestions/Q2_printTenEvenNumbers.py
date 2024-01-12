@@ -1,0 +1,1 @@
+# Q2: Create a loop that prints the first 10 even numbers.
